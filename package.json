@@ -1,0 +1,23 @@
+{
+  "name": "html5geolocalizacion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server ./public"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darl4real/HTML5Geolocalizacion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darl4real/HTML5Geolocalizacion/issues"
+  },
+  "homepage": "https://github.com/darl4real/HTML5Geolocalizacion#readme",
+  "description": ""
+}
